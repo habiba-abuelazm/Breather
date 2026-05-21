@@ -32,8 +32,6 @@ The goal of Breather was to explore how mobile technologies and biosensor integr
 
 Potential future enhancements include:
 
-* Expanded biosensor compatibility
-* Personalized wellness insights and analytics
 * Cloud-based data storage and synchronization
 * Enhanced accessibility and UI customization
 * Notification and alert functionality
@@ -47,7 +45,3 @@ Potential future enhancements include:
 ```bash
 git clone https://github.com/habiba-abuelazm/Breather.git
 ```
-
-## Disclaimer
-
-Breather was developed as an academic/research-focused project and is not intended to serve as a certified medical diagnostic tool.
